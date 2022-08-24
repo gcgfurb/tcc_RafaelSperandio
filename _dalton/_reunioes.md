@@ -7,3 +7,8 @@ Conversamos sobre orientação de TCC. Chegamos a um assunto para o Termo de TCC
 ## 2022/08/22
 
 ### [Termo](./Termo.pdf "Termo")  
+
+## 2022/08/23
+
+Falou com a professoras Simone Riske Koch (skoch@furb.br) (da religião) junto com o prof. Maurício. Pediu para o Rafael pesquisar alguns materiais. Indicou a [BNCC Catarinenese](CBTC.pdf "BNCC Catarinenese"). Disse que pode testar com os estagiários dela.  
+![SimoneRiskeKoch_foto](SimoneRiskeKoch_foto.png "SimoneRiskeKoch_foto")  
