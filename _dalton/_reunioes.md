@@ -16,3 +16,9 @@ Falou com a professoras Simone Riske Koch (skoch@furb.br) (da religião) junto c
 ## 2022-09-05 - 14:20
 
 [2022-09-05_reuniao](2022-09-05_reuniao.pdf "2022-09-05_reuniao")  
+
+## 2022-09-14 - 15:36
+
+Conversamos quase uma hora sobre dúvidas de como seguir na descrição do Pré-projeto. Em resumo, precisa escrever em si. Precisa pesquisar/ler mais sobre o assunto para escrever. Produziu muito pouco.  Muito atrasado.  
+
+[2022-09-14_PreProjeto](2022-09-14_PreProjeto.pdf "2022-09-14_PreProjeto")  
