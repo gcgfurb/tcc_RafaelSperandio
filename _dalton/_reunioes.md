@@ -22,3 +22,10 @@ Falou com a professoras Simone Riske Koch (skoch@furb.br) (da religião) junto c
 Conversamos quase uma hora sobre dúvidas de como seguir na descrição do Pré-projeto. Em resumo, precisa escrever em si. Precisa pesquisar/ler mais sobre o assunto para escrever. Produziu muito pouco.  Muito atrasado.  
 
 [2022-09-14_PreProjeto](2022-09-14_PreProjeto.pdf "2022-09-14_PreProjeto")  
+
+## 2022-09-27 - 16:39
+
+Revisão do Pré-projeto.  
+Tem muitos (muitos) ajustes para serem feitos.  
+Arrumar objetivos.  
+[2022-09-27_PreProjeto_Dalton](2022-09-27_PreProjeto_Dalton.pdf "2022-09-27_PreProjeto_Dalton")  
