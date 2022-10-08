@@ -29,3 +29,9 @@ Revisão do Pré-projeto.
 Tem muitos (muitos) ajustes para serem feitos.  
 Arrumar objetivos.  
 [2022-09-27_PreProjeto_Dalton](2022-09-27_PreProjeto_Dalton.pdf "2022-09-27_PreProjeto_Dalton")  
+
+## 2022-10-08 - 16:40
+
+Segunda revisão do pré-projeto.  
+[2022-10-08_PreProjeto_Dalton.pdf](2022-10-08_PreProjeto_Dalton.pdf "2022-10-08_PreProjeto_Dalton.pdf")  
+
