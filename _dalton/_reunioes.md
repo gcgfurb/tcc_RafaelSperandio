@@ -35,3 +35,8 @@ Arrumar objetivos.
 Segunda revisão do pré-projeto.  
 [2022-10-08_PreProjeto_Dalton.pdf](2022-10-08_PreProjeto_Dalton.pdf "2022-10-08_PreProjeto_Dalton.pdf")  
 
+## 2022-10-12 - 13:04
+
+Pré-projeto: versão entregue para banca.  
+Ainda deveria ter mais rodadas de revisão, mas passou o prazo de entrega.  
+[2022-10-12_PreProjeto_Dalton](2022-10-12_PreProjeto_Dalton.pdf "2022-10-12_PreProjeto_Dalton")  
