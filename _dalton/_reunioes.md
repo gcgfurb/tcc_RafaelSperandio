@@ -46,3 +46,64 @@ Ainda deveria ter mais rodadas de revisão, mas passou o prazo de entrega.
 Defesa do pré-projeto 
 [Video](2022-10-12_PreProjeto_Slides.mp4 "Video")  
 [Slides](2022-10-12_PreProjeto_Slides.pdf "Slides")  
+
+## 2023-03-03 - 17:36
+
+Aplicativo de Realidade Aumentada para o Ensino de Religião em Escolas Utilizando Interface de Usuário Tangível.  
+
+Aplicativo que incentive aprendizado da religião por meio de técnicas de realidade aumentada e interface de usuário tangível. Os objetivos específicos são:
+a) criar um conteúdo que possa demonstrar os tipos de religiões e descrever lugares, lendas, eventos relevantes e escrituras sagradas;
+b) utilizar realidade aumentada e interface de usuário tangível para interagir com o conteúdo;
+c) criar um sistema de pontuação através de exercícios relacionados ao conteúdo;
+
+### Simone Riske Koch
+
+Professora indicada pelo Maurício  
+<https://comin.org.br/publicacao/semana-dos-povos-indigenas-2016/>  
+<https://comin.org.br/publicacao/semana-dos-povos-indigenas-2005-o-povo-xokleng/>  
+[Material](SimoneRiskeKoch)  
+
+### Metodologia do Ensino Religioso
+
+Katilene Willms Labes  
+G-003  
+Material didático  
+
+### Cenário
+  
+  3 religiões
+
+### Teórica
+
+  Assistir aulas TCC2. Ajustes no projeto.  
+
+### Prática
+
+Unity não mudar de versão.  
+
+- Projeta de telas
+ver <https://www.furb.br/dsc/arquivos/tccs/monografias/2019_1_rafael-diegoli_monografia.pdf>
+
+- Vuforia  
+- botão virtual  
+
+#### Rotinas
+
+Folha A4
+![Marcador_Quiz](Marcador_Quiz.png)
+
+Persistência: local
+Site:
+  Faixa etária
+  folha com os marcadores
+
+Divisão por religião  
+
+### Teste
+
+d) testar o aplicativo com usuários.  
+(Simone Riske Koch)  
+
+Dalton: painel 3d para textos
+
+Testar o TCC do Ricardo: <https://github.com/gcgfurb/tcc_RicardoFelipeReiter>
