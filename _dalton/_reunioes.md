@@ -90,7 +90,7 @@ ver <https://www.furb.br/dsc/arquivos/tccs/monografias/2019_1_rafael-diegoli_mon
 #### Rotinas
 
 Folha A4
-![Marcador_Quiz](Marcador_Quiz.png)
+![Marcador_Quiz](Marcador_Quiz_2023-03-03.png)
 
 Persistência: local
 Site:
@@ -107,3 +107,5 @@ d) testar o aplicativo com usuários.
 Dalton: painel 3d para textos
 
 Testar o TCC do Ricardo: <https://github.com/gcgfurb/tcc_RicardoFelipeReiter>
+
+![Marcador_Quiz](Marcador_Quiz_2023-03-10.png)
