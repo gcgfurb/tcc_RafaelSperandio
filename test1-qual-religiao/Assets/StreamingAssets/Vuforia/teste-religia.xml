@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="teste-quiz" size="22.000000 22.480219" />
+    <ImageTarget name="pizarri-capturando-inca" size="10.000000 6.819127" />
+    <ImageTarget name="descobrimento_pulque" size="10.000000 8.377143" />
+    <ImageTarget name="primeira-missa" size="10.000000 7.438016" />
+    <ImageTarget name="marcador1" size="20.000000 20.000000" />
+    <ImageTarget name="Moema" size="10.000000 6.562500" />
+  </Tracking>
+</QCARConfig>

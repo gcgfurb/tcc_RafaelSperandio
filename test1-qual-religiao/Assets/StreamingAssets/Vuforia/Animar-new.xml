@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="inspector" size="5.000000 5.000000" />
+    <ImageTarget name="trashbin" size="5.000000 5.000000" />
+    <ImageTarget name="recorder" size="16.000000 6.250000" />
+    <ImageTarget name="selector" size="16.000000 6.250000" />
+    <ImageTarget name="Scene_1" size="15.000000 15.000000" />
+  </Tracking>
+</QCARConfig>
