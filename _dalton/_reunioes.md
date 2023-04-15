@@ -115,3 +115,5 @@ Testar o TCC do Ricardo: <https://github.com/gcgfurb/tcc_RicardoFelipeReiter>
 - vai testar com outras pessoas (Martha, Julio, etc) para ver se a usabilidade está boa.  
 - melhorar a parte visual. Pode usar o que tiver do TCC do Ricardo.  
 - persistência local e sincronizar na nuvem.  
+
+[Monografia](../AnimAR/2018_1_ricardo-filipe-reiter_monografia.pdf)  
