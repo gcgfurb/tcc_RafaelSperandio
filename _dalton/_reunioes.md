@@ -109,3 +109,9 @@ Dalton: painel 3d para textos
 Testar o TCC do Ricardo: <https://github.com/gcgfurb/tcc_RicardoFelipeReiter>
 
 ![Marcador_Quiz](Marcador_Quiz_2023-03-10.png)
+
+## 2023-04-14 - 17:32
+
+- vai testar com outras pessoas (Martha, Julio, etc) para ver se a usabilidade está boa.  
+- melhorar a parte visual. Pode usar o que tiver do TCC do Ricardo.  
+- persistência local e sincronizar na nuvem.  
