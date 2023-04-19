@@ -112,8 +112,14 @@ Testar o TCC do Ricardo: <https://github.com/gcgfurb/tcc_RicardoFelipeReiter>
 
 ## 2023-04-14 - 17:32
 
-- vai testar com outras pessoas (Martha, Julio, etc) para ver se a usabilidade está boa.  
-- melhorar a parte visual. Pode usar o que tiver do TCC do Ricardo.  
-- persistência local e sincronizar na nuvem.  
+Tem 3 cenários: Quiz, Memória e Qual Religião?
+
+[ ] melhorar a parte visual. Pode usar o que tiver do TCC do Ricardo.  
+[ ] persistência local e sincronizar na nuvem: Firebase.  
 
 [Monografia](../AnimAR/2018_1_ricardo-filipe-reiter_monografia.pdf)  
+
+## 2023-04-19 - 09:07
+
+[ ] vai testar com outras pessoas (Martha, Julio, etc) para ver se a usabilidade está boa.  
+      Acho que tem botões muitos próximos.  
