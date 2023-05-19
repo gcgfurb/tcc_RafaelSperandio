@@ -123,3 +123,10 @@ Tem 3 cenários: Quiz, Memória e Qual Religião?
 
 [ ] vai testar com outras pessoas (Martha, Julio, etc) para ver se a usabilidade está boa.  
       Acho que tem botões muitos próximos.  
+
+## 2023-05-19 - 17:23
+
+- [ ] arrumar tela de abertura ![tela de abertura](2023-05-19_TelaAbertura.png)  
+- [ ] link para questionário: <https://docs.google.com/forms/d/1-DpINzUCY29I6zXQBT-LUrtMb-wlFfJRIr5pmIHI8YM/edit>  
+- [ ] comprar papel Paraná papelaria  
+- [ ] 
