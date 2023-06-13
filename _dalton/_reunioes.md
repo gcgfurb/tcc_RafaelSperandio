@@ -129,4 +129,14 @@ Tem 3 cenários: Quiz, Memória e Qual Religião?
 - [ ] arrumar tela de abertura ![tela de abertura](2023-05-19_TelaAbertura.png)  
 - [ ] link para questionário: <https://docs.google.com/forms/d/1-DpINzUCY29I6zXQBT-LUrtMb-wlFfJRIr5pmIHI8YM/edit>  
 - [ ] comprar papel Paraná papelaria  
-- [ ] 
+- [ ] Unity: travar em modo paisagem  
+- [ ] Aumentar um pouco o tamanho do botão "voltar"  
+- [ ] arrumar posição do botão "Título da atividade"  
+
+### Problemas
+
+[ ] Testar em outros aparelhos  
+
+## 2023-05-29 - 09:14
+
+[ArtigoTCC_compartilhado](ArtigoTCC_compartilhado.eml)  
