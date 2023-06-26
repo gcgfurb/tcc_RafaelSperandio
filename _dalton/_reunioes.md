@@ -140,3 +140,7 @@ Tem 3 cenários: Quiz, Memória e Qual Religião?
 ## 2023-05-29 - 09:14
 
 [ArtigoTCC_compartilhado](ArtigoTCC_compartilhado.eml)  
+
+## 2023-06-26 - 09:40
+
+[Artigo_2023-06-26_EntregueBanca](Artigo_2023-06-26_EntregueBanca.pdf)  
