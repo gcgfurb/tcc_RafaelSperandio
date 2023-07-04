@@ -144,3 +144,14 @@ Tem 3 cenários: Quiz, Memória e Qual Religião?
 ## 2023-06-26 - 09:40
 
 [Artigo_2023-06-26_EntregueBanca](Artigo_2023-06-26_EntregueBanca.pdf)  
+
+## 2023-07-04 - 15:34
+
+Nos últimos slides acelerou um pouco.  
+Já deixou os kits de marcadores no LIFE :-)  
+
+16:06 26+6: minutos  
+
+## 2023-07-04 - 19:47 - Revisão Maurício
+
+[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
