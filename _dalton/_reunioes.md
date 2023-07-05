@@ -117,7 +117,7 @@ Tem 3 cenários: Quiz, Memória e Qual Religião?
 [ ] melhorar a parte visual. Pode usar o que tiver do TCC do Ricardo.  
 [ ] persistência local e sincronizar na nuvem: Firebase.  
 
-[Monografia](../AnimAR/2018_1_ricardo-filipe-reiter_monografia.pdf)  
+[Monografia](../AnimAR/tcc_bcc_2018_1_rfreiter_RicardoFilipeReiter-VF.pdf)  
 
 ## 2023-04-19 - 09:07
 
@@ -155,3 +155,6 @@ Já deixou os kits de marcadores no LIFE :-)
 ## 2023-07-04 - 19:47 - Revisão Maurício
 
 [Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
+
+## 2023-07-05 - 15:32
+
