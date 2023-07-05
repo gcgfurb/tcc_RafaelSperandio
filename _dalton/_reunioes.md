@@ -158,3 +158,31 @@ Já deixou os kits de marcadores no LIFE :-)
 
 ## 2023-07-05 - 15:32
 
+Sair um pouco dos slides e usar mais os slides. DCU ficou bom o texto nos slides.  
+Outras ferramentas até melhores para iOS do que o Vuforia?  
+Extensão: usar marcadores mais próximos aos objetos reais.  
+Não traz no artigo o tutorial.  
+
+16:01 --> 27 minutos
+
+Melhorar a iluminação dos objetos na cena virtual.  
+Rótulos dos textos aparecem um pouco cortado.  
+
+16:10
+
+## Valdameri
+
+Parabéns pela escolha de tema.  
+Menos conteúdo nos slides.  
+Arrumar o texto .. alguns ajustes. Principalmente nas conclusões.  
+Subir na loja.  
+Ter mais requisitos do que Casos de Uso.  
+[Artigo_2023-07-04_Revisao_Valdameri.pdf](Artigo_2023-07-04_Revisao_Valdameri.pdf)  
+
+## Simone
+
+Fez a disciplina no curso de religião.  
+Melhorar os objetivos o resumo.  
+Arrumar "Qual religião".  
+Cuidado nos textos das frases das perguntas.  
+Pode ser testado em Pomerode.  
