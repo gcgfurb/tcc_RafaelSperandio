@@ -156,7 +156,9 @@ Já deixou os kits de marcadores no LIFE :-)
 
 [Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
 
-## 2023-07-05 - 15:32
+## 2023-07-05 - 15:32 Defesa
+
+[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
 
 Sair um pouco dos slides e usar mais os slides. DCU ficou bom o texto nos slides.  
 Outras ferramentas até melhores para iOS do que o Vuforia?  
