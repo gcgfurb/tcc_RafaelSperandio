@@ -174,6 +174,8 @@ Rótulos dos textos aparecem um pouco cortado.
 
 ## Valdameri
 
+[Artigo_2023-07-04_Revisao_Valdameri.pdf](Artigo_2023-07-04_Revisao_Valdameri.pdf)  
+
 Parabéns pela escolha de tema.  
 Menos conteúdo nos slides.  
 Arrumar o texto .. alguns ajustes. Principalmente nas conclusões.  
@@ -182,6 +184,9 @@ Ter mais requisitos do que Casos de Uso.
 [Artigo_2023-07-04_Revisao_Valdameri.pdf](Artigo_2023-07-04_Revisao_Valdameri.pdf)  
 
 ## Simone
+
+[Artigo_2023-07-04_Revisao_Simone_avaliacao.docx](Artigo_2023-07-04_Revisao_Simone_avaliacao.docx)  
+[Artigo_2023-07-04_Revisao_Simone.pdf](Artigo_2023-07-04_Revisao_Simone.pdf)  
 
 Fez a disciplina no curso de religião.  
 Melhorar os objetivos o resumo.  
