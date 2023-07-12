@@ -152,9 +152,7 @@ Já deixou os kits de marcadores no LIFE :-)
 
 16:06 26+6: minutos  
 
-## 2023-07-04 - 19:47 - Revisão Maurício
-
-[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
+----
 
 ## 2023-07-05 - 15:32 Defesa
 
