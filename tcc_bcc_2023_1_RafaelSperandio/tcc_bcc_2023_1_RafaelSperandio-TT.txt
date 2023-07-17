@@ -1,0 +1,42 @@
+Tutorial ReligiAR - Rafael Sperandio
+ 
+==================================================
+ 
+Instalar Softwares necessários
+ 
+Unity Hub
+ 
+Unity v2021.3.14f1 (com build para Android)
+ 
+SDK Vuforia versão 9-8-13
+ 
+criar um projeto no firebase com firebase authetication e firebase realtime database (as regras utilizadas estão no artigo)
+ 
+baixar sqlite Precompiled Binaries for Android e Precompiled Binaries for Windows (link do site https://www.sqlite.org/download.html)
+ 
+==================================================
+ 
+Configuração Unity HUB e projeto
+ 
+1. No Unity Hub, adicionar a pasta de fontes como pasta de um projeto
+2.Abrir o projeto
+2.1 O Unity deve baixar as dependência (a primeira vez demora mais)
+3 caso o projeto não tenha as SDK,araste as SDKs a baixo para o projeto no unity:
+3.1 araste a SDK do vulforia para o unity (presente no site do vulforia https://developer.vuforia.com/downloads/sdk?field-sdk-release-version-tid=57)
+3.2 araste o database do vulforia caso ele não esteja presente no projeto
+3.2.1 para criar vá na parte de develop crie um novo database com um target manager para cada imagem presente na pasta outros
+3.2.2.1 é aconselhavel criar no site do vulforia uma nova license maneger e a adiciona-la a Ar camera presente na cena do jogo_da_memoria (Scenes\jogo_da_memoria)
+3.2 araste os arquivos ddl do sqlite para o unity
+3.3 adicionando o firebase ao projeto
+3.3.1 crie no site do firebase um novo projeto com authetication e realtime database 
+3.3.2 após isso vá até as cofigurações do projeto e baixe a SDK sertifique-se que a SDK possua o nome google-services.json
+3.3.3 adicione as sdks do firebase ao projeto
+3.3.2 araste as bibliotecas do firebase ao unity
+4 vá para as build settings selecione a plataforma android e addicione as cenas a seguir na seguinte order
+4.1 primeiro adicione a cena teste na pastas menus (menus\teste)
+4.2 depois adicione a cena jogo_da_memoria que esta na pasta Scenes (Scenes\jogo_da_memoria)
+5 Rodar o projeto
+5.1 selecione o dispositivo 
+5.2 clique em build and run, dessa formaO Unity fará o build do projeto e gerar os arquivos necessários (a primeira vez demora mais)
+
+==================================================
